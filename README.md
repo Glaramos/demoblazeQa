@@ -105,3 +105,7 @@ Each bug report contains:
 Testing was conducted on the application's main user flows.
 
 The execution results helped validate critical functionalities and identify several defects affecting the user experience.
+
+## Author
+
+Gladys – QA Tester Portfolio Project
